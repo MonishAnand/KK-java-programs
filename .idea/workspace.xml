@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="dollor/rupees">
-      <change afterPath="$PROJECT_DIR$/RoundTwo/src/fibonanci.java" afterDir="false" />
+    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="fibonacci">
+      <change afterPath="$PROJECT_DIR$/RoundTwo/src/palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,14 +41,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.fibonanci">
-    <configuration name="Greetingmessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greetingmessage" />
-      <module name="RoundTwo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.palindrome">
     <configuration name="Largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Largest" />
       <module name="RoundTwo" />
@@ -77,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrome" />
+      <module name="RoundTwo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.palindrome" />
         <item itemvalue="Application.fibonanci" />
         <item itemvalue="Application.currency" />
         <item itemvalue="Application.Largest" />
         <item itemvalue="Application.Simpleinterest" />
-        <item itemvalue="Application.Greetingmessage" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679584192464</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fibonacci">
+      <created>1679585277644</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679585277644</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,6 +186,7 @@
     <MESSAGE value="SI" />
     <MESSAGE value="largest" />
     <MESSAGE value="dollor/rupees" />
-    <option name="LAST_COMMIT_MESSAGE" value="dollor/rupees" />
+    <MESSAGE value="fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="fibonacci" />
   </component>
 </project>
