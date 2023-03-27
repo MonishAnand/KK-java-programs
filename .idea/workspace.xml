@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="Calculator2">
-      <change afterPath="$PROJECT_DIR$/basic java program/src/areaofcircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="areaofcircle">
+      <change afterPath="$PROJECT_DIR$/basic java program/src/areaoftriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.areaofcircle">
+  <component name="RunManager" selected="Application.areaoftriangle">
     <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Armstrong" />
       <module name="RoundTwo" />
@@ -52,6 +51,13 @@
     </configuration>
     <configuration name="areaofcircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="areaofcircle" />
+      <module name="basic java program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="areaoftriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areaoftriangle" />
       <module name="basic java program" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="palindrome" />
-      <module name="RoundTwo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.areaoftriangle" />
         <item itemvalue="Application.areaofcircle" />
         <item itemvalue="Application.cal2" />
         <item itemvalue="Application.calculator" />
         <item itemvalue="Application.Armstrong" />
-        <item itemvalue="Application.palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679810898438</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="areaofcircle">
+      <created>1679930722684</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1679930722684</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,6 +226,7 @@
     <MESSAGE value="Armstrong number" />
     <MESSAGE value="Calculator" />
     <MESSAGE value="Calculator2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator2" />
+    <MESSAGE value="areaofcircle" />
+    <option name="LAST_COMMIT_MESSAGE" value="areaofcircle" />
   </component>
 </project>
