@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="areaoftriangle">
-      <change afterPath="$PROJECT_DIR$/basic java program/src/areaofrect.java" afterDir="false" />
+    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="areaofrectangle">
+      <change afterPath="$PROJECT_DIR$/basic java program/src/isoscelestri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.areaofrect">
+  <component name="RunManager" selected="Application.isoscelestri">
     <configuration name="areaofcircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="areaofcircle" />
       <module name="basic java program" />
@@ -70,20 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculator" />
-      <module name="RoundTwo" />
+    <configuration name="isoscelestri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isoscelestri" />
+      <module name="basic java program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isoscelestri" />
         <item itemvalue="Application.areaofrect" />
         <item itemvalue="Application.areaoftriangle" />
         <item itemvalue="Application.areaofcircle" />
         <item itemvalue="Application.cal2" />
-        <item itemvalue="Application.calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679931728450</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="areaofrectangle">
+      <created>1680277162237</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1680277162237</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,6 +242,7 @@
     <MESSAGE value="Calculator2" />
     <MESSAGE value="areaofcircle" />
     <MESSAGE value="areaoftriangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="areaoftriangle" />
+    <MESSAGE value="areaofrectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="areaofrectangle" />
   </component>
 </project>
