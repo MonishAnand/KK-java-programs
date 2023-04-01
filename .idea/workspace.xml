@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="areaofrectangle">
-      <change afterPath="$PROJECT_DIR$/basic java program/src/isoscelestri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="areaofisotri">
+      <change afterPath="$PROJECT_DIR$/basic java program/src/parallelogram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.isoscelestri">
+  <component name="RunManager" selected="Application.parallelogram">
     <configuration name="areaofcircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="areaofcircle" />
       <module name="basic java program" />
@@ -63,13 +62,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cal2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cal2" />
-      <module name="RoundTwo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="isoscelestri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="isoscelestri" />
       <module name="basic java program" />
@@ -77,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="parallelogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parallelogram" />
+      <module name="basic java program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.parallelogram" />
         <item itemvalue="Application.isoscelestri" />
         <item itemvalue="Application.areaofrect" />
         <item itemvalue="Application.areaoftriangle" />
         <item itemvalue="Application.areaofcircle" />
-        <item itemvalue="Application.cal2" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680277162237</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="areaofisotri">
+      <created>1680355495330</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1680355495330</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,6 +249,7 @@
     <MESSAGE value="areaofcircle" />
     <MESSAGE value="areaoftriangle" />
     <MESSAGE value="areaofrectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="areaofrectangle" />
+    <MESSAGE value="areaofisotri" />
+    <option name="LAST_COMMIT_MESSAGE" value="areaofisotri" />
   </component>
 </project>
