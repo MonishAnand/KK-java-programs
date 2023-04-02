@@ -4,8 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KK JavaPrograms.iml" filepath="$PROJECT_DIR$/KK JavaPrograms.iml" />
       <module fileurl="file://$PROJECT_DIR$/RoundTwo/RoundTwo.iml" filepath="$PROJECT_DIR$/RoundTwo/RoundTwo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/basic java program/basic java program.iml" filepath="$PROJECT_DIR$/basic java program/basic java program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicprograms2/basicprograms2.iml" filepath="$PROJECT_DIR$/basicprograms2/basicprograms2.iml" />
       <module fileurl="file://$PROJECT_DIR$/flowchart questions/flowchart questions.iml" filepath="$PROJECT_DIR$/flowchart questions/flowchart questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shapes/shapes.iml" filepath="$PROJECT_DIR$/shapes/shapes.iml" />
     </modules>
   </component>
 </project>
