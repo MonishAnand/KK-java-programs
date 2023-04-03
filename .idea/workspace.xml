@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="areaofequilateraltri">
-      <change afterPath="$PROJECT_DIR$/shapes/src/perimeterofcircle.java" afterDir="false" />
+    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="perimeterofcircle">
+      <change afterPath="$PROJECT_DIR$/shapes/src/PerimeterOfEquilateralTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,21 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.perimeterofcircle">
+  <component name="RunManager" selected="Application.PerimeterOfParallelogram">
+    <configuration name="PerimeterOfEquilateralTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerimeterOfEquilateralTriangle" />
+      <module name="shapes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerimeterOfParallelogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PerimeterOfParallelogram" />
+      <module name="shapes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="areaofequilateraltriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="areaofequilateraltriangle" />
       <module name="shapes" />
@@ -56,20 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isoscelestri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isoscelestri" />
-      <module name="shapes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="parallelogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parallelogram" />
-      <module name="shapes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="perimeterofcircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="perimeterofcircle" />
       <module name="shapes" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerimeterOfParallelogram" />
+        <item itemvalue="Application.PerimeterOfEquilateralTriangle" />
         <item itemvalue="Application.perimeterofcircle" />
         <item itemvalue="Application.areaofequilateraltriangle" />
         <item itemvalue="Application.areaofrhombus" />
-        <item itemvalue="Application.parallelogram" />
-        <item itemvalue="Application.isoscelestri" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680435851755</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="perimeterofcircle">
+      <created>1680436440748</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1680436440748</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -275,6 +282,7 @@
     <MESSAGE value="areaofparalleogram" />
     <MESSAGE value="areaofrhombus" />
     <MESSAGE value="areaofequilateraltri" />
-    <option name="LAST_COMMIT_MESSAGE" value="areaofequilateraltri" />
+    <MESSAGE value="perimeterofcircle" />
+    <option name="LAST_COMMIT_MESSAGE" value="perimeterofcircle" />
   </component>
 </project>
