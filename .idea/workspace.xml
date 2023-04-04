@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="perimeterof||gram">
-      <change afterPath="$PROJECT_DIR$/shapes/src/perimeterofrectangle.java" afterDir="false" />
+    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="perimeterofrect">
+      <change afterPath="$PROJECT_DIR$/shapes/src/perimeterofsquare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.perimeterofrectangle">
+  <component name="RunManager" selected="Application.perimeterofsquare">
     <configuration name="PerimeterOfEquilateralTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PerimeterOfEquilateralTriangle" />
       <module name="shapes" />
@@ -51,13 +51,6 @@
     </configuration>
     <configuration name="PerimeterOfParallelogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PerimeterOfParallelogram" />
-      <module name="shapes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="perimeterofcircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="perimeterofcircle" />
       <module name="shapes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="perimeterofsquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="perimeterofsquare" />
+      <module name="shapes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.perimeterofsquare" />
         <item itemvalue="Application.perimeterofrectangle" />
         <item itemvalue="Application.perimeterofparallelogram" />
         <item itemvalue="Application.PerimeterOfParallelogram" />
         <item itemvalue="Application.PerimeterOfEquilateralTriangle" />
-        <item itemvalue="Application.perimeterofcircle" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680523766808</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="perimeterofrect">
+      <created>1680618545202</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1680618545202</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -299,6 +306,7 @@
     <MESSAGE value="perimeterofcircle" />
     <MESSAGE value="perimeterofequtri" />
     <MESSAGE value="perimeterof||gram" />
-    <option name="LAST_COMMIT_MESSAGE" value="perimeterof||gram" />
+    <MESSAGE value="perimeterofrect" />
+    <option name="LAST_COMMIT_MESSAGE" value="perimeterofrect" />
   </component>
 </project>
