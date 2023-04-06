@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="perimeterofsquare">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="perimeterofrhombus">
+      <change afterPath="$PROJECT_DIR$/shapes/src/volumeofcone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +40,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.perirhombus">
-    <configuration name="PerimeterOfParallelogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerimeterOfParallelogram" />
-      <module name="shapes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.volumeofcone">
     <configuration name="perimeterofparallelogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="perimeterofparallelogram" />
       <module name="shapes" />
@@ -76,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="volumeofcone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="volumeofcone" />
+      <module name="shapes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.volumeofcone" />
         <item itemvalue="Application.perirhombus" />
         <item itemvalue="Application.perimeterofsquare" />
         <item itemvalue="Application.perimeterofrectangle" />
         <item itemvalue="Application.perimeterofparallelogram" />
-        <item itemvalue="Application.PerimeterOfParallelogram" />
       </list>
     </recent_temporary>
   </component>
@@ -284,11 +284,17 @@
       <option name="project" value="LOCAL" />
       <updated>1680618795266</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="perimeterofrhombus">
+      <created>1680788641660</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1680788641660</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Multable" />
     <MESSAGE value="HCF" />
     <MESSAGE value="LCM" />
     <MESSAGE value="Evenodd" />
@@ -313,6 +319,7 @@
     <MESSAGE value="perimeterof||gram" />
     <MESSAGE value="perimeterofrect" />
     <MESSAGE value="perimeterofsquare" />
-    <option name="LAST_COMMIT_MESSAGE" value="perimeterofsquare" />
+    <MESSAGE value="perimeterofrhombus" />
+    <option name="LAST_COMMIT_MESSAGE" value="perimeterofrhombus" />
   </component>
 </project>
