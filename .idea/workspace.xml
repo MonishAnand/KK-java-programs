@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="volume of cylinder" />
+    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="volume of Sphere" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,16 +38,16 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.volofsphere">
-    <configuration name="perimeterofsquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="perimeterofsquare" />
+  <component name="RunManager" selected="Application.volofpyramid">
+    <configuration name="perirhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="perirhombus" />
       <module name="shapes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="perirhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="perirhombus" />
+    <configuration name="volofpyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="volofpyramid" />
       <module name="shapes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.volofpyramid" />
         <item itemvalue="Application.volofsphere" />
         <item itemvalue="Application.volumeofcylinder" />
         <item itemvalue="Application.volumeofcone" />
         <item itemvalue="Application.perirhombus" />
-        <item itemvalue="Application.perimeterofsquare" />
       </list>
     </recent_temporary>
   </component>
@@ -303,11 +303,17 @@
       <option name="project" value="LOCAL" />
       <updated>1680881674825</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="volume of Sphere">
+      <created>1680969453980</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1680969453980</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Evenodd" />
     <MESSAGE value="message" />
     <MESSAGE value="SI" />
     <MESSAGE value="largest" />
@@ -332,6 +338,7 @@
     <MESSAGE value="perimeterofrhombus" />
     <MESSAGE value="volume of cone" />
     <MESSAGE value="volume of cylinder" />
-    <option name="LAST_COMMIT_MESSAGE" value="volume of cylinder" />
+    <MESSAGE value="volume of Sphere" />
+    <option name="LAST_COMMIT_MESSAGE" value="volume of Sphere" />
   </component>
 </project>
