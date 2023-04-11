@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="volume of pyramid">
-      <change afterPath="$PROJECT_DIR$/shapes/src/curvedsurfaceareaofcylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd9b70e7-e53d-4a21-b5e3-a3153cf32e4d" name="Changes" comment="cursurarea of cylinder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +38,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.curvedsurfaceareaofcylinder">
+  <component name="RunManager" selected="Application.volumeoftriangularprism">
     <configuration name="curvedsurfaceareaofcylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="curvedsurfaceareaofcylinder" />
       <module name="shapes" />
@@ -63,13 +60,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="volumeofcone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="volumeofcone" />
-      <module name="shapes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="volumeofcylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="volumeofcylinder" />
       <module name="shapes" />
@@ -77,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="volumeoftriangularprism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="volumeoftriangularprism" />
+      <module name="shapes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.volumeoftriangularprism" />
         <item itemvalue="Application.curvedsurfaceareaofcylinder" />
         <item itemvalue="Application.volofpyramid" />
         <item itemvalue="Application.volofsphere" />
         <item itemvalue="Application.volumeofcylinder" />
-        <item itemvalue="Application.volumeofcone" />
       </list>
     </recent_temporary>
   </component>
@@ -320,11 +317,17 @@
       <option name="project" value="LOCAL" />
       <updated>1681057238269</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="cursurarea of cylinder">
+      <created>1681141198524</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1681141198524</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SI" />
     <MESSAGE value="largest" />
     <MESSAGE value="dollor/rupees" />
     <MESSAGE value="fibonacci" />
@@ -349,6 +352,7 @@
     <MESSAGE value="volume of cylinder" />
     <MESSAGE value="volume of Sphere" />
     <MESSAGE value="volume of pyramid" />
-    <option name="LAST_COMMIT_MESSAGE" value="volume of pyramid" />
+    <MESSAGE value="cursurarea of cylinder" />
+    <option name="LAST_COMMIT_MESSAGE" value="cursurarea of cylinder" />
   </component>
 </project>
